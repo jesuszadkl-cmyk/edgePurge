@@ -46,3 +46,12 @@ This script is provided **as-is** and should be used **at your own risk**.
 
 
 Wait for completion. Restart your system if necessary.
+
+---
+
+## 📘 INFO
+
+Este script fue generado con **ChatGPT-4 (OpenAI)** y proporcionado tal cual para uso libre y distribución.  
+Distribuido públicamente por el usuario sin modificaciones manuales en el código original.
+
+
