@@ -54,4 +54,22 @@ Wait for completion. Restart your system if necessary.
 Este script fue generado con **ChatGPT-4 (OpenAI)** y proporcionado tal cual para uso libre y distribución.  
 Distribuido públicamente por el usuario sin modificaciones manuales en el código original.
 
+---
+
+## 📦 How to Download and Use
+
+To avoid errors and make it easier to run the script:
+
+➡️ **Click "Code" button**  
+➡️ Then select **"Download ZIP"**
+
+After downloading:
+
+1. **Extract the ZIP** file to any folder.
+2. Open the extracted folder.
+3. Right-click on `purge-edge.ps1` → select **"Run with PowerShell"** *(as administrator)*.
+4. Follow the on-screen instructions.
+
+> 💡 If you're comfortable with Git, you can also clone the repository — but downloading as ZIP is recommended for most users.
+
 
